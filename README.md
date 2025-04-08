@@ -16,6 +16,11 @@
 
 ```
 npm run test //will run tests in headless mode
+npm run posttest //runs after test and creates html report
+```
+<h4>To create report manually:</h4>
+
+```
 npm run posttest //will create html report
-``````
+```
 <p>Report is available at <a href="https://maximka47.github.io/CypressCucumberTask/">Github Pages</a>, and is updated on each commit</p>
