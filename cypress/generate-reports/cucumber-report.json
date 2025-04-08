@@ -1,0 +1,601 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "telnyx-contact-us-page-loading;telnyx-contact-us-page-title",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Telnyx Contact Us page title",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I visit Telnyx Contact Us page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5309000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "I should see \"Talk to an expert\" on the page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-contact-us-page-loading;telnyx-contact-us-page-related-resources",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Telnyx Contact Us page related resources",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "I visit Telnyx Contact Us page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 131000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I should see related resources on the page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 46000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-contact-us-page-loading;telnyx-contact-us-page-footer",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Telnyx Contact Us page footer",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "I visit Telnyx Contact Us page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 99000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "I should see the contact us page footer with links",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 66000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "telnyx-contact-us-page-loading",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Telnyx Contact Us Page loading",
+    "tags": [],
+    "uri": "cypress\\e2e\\features\\contactUs.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "telnyx-customer-stories-page-loading;telnyx-customer-stories-page-title",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Telnyx Customer Stories page title",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I visit Telnyx Customer Stories page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2435000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "I should see \"Customer Stories\" on the page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-customer-stories-page-loading;telnyx-customer-stories-page-customer-stories",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Telnyx Customer Stories page customer stories",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "I visit Telnyx Customer Stories page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 161000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "I should see customer stories on the page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 50000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-customer-stories-page-loading;telnyx-customer-stories-page-footer",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Telnyx Customer Stories page footer",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "I visit Telnyx Customer Stories page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 322000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 13,
+            "name": "I should see the customer stories page footer with links",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 71000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "telnyx-customer-stories-page-loading",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Telnyx Customer Stories page loading",
+    "tags": [],
+    "uri": "cypress\\e2e\\features\\customerStories.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "telnyx-homepage-loading;telnyx-homepage-title",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "Telnyx homepage title",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "I visit Telnyx homepage",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2799000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 4,
+            "name": "I should see \"Experience\" on the page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 41000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-homepage-loading;telnyx-homepage-menu-links",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Telnyx homepage menu links",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I visit Telnyx homepage",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 168000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I should see essential menu links",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-homepage-loading;telnyx-homepage-title",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Telnyx homepage title",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "I visit Telnyx homepage",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 182000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I should see the title of the page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 40000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-homepage-loading;telnyx-homepage-footer",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Telnyx homepage footer",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 15,
+            "name": "I visit Telnyx homepage",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 164000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "I should see the footer with links",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 78000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-homepage-loading;telnyx-homepage-navigation",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Telnyx homepage navigation",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 19,
+            "name": "I visit Telnyx homepage",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 151000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 20,
+            "name": "I should see the navigation bar with links",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 402000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-homepage-loading;telnyx-homepage-different-resolutions",
+        "keyword": "Scenario",
+        "line": 22,
+        "name": "Telnyx homepage different resolutions",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 23,
+            "name": "I visit Telnyx homepage",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 145000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 24,
+            "name": "I should see or not see main menu dependding on viewport resolution",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 451000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "telnyx-homepage-loading",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Telnyx Homepage loading",
+    "tags": [],
+    "uri": "cypress\\e2e\\features\\homepage.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "telnyx-voiceai-page-loading;telnyx-voiceai-page-title",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "Telnyx VoiceAI page title",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "I visit Telnyx VoiceAI page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2145000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 4,
+            "name": "I should see \"AI voice\" on the page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 21000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-voiceai-page-loading;telnyx-voiceai-page-features",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Telnyx VoiceAI page Features",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 7,
+            "name": "I visit Telnyx VoiceAI page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 170000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I should see AI voice features",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 57000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "telnyx-voiceai-page-loading;telnyx-voiceai-page-footer",
+        "keyword": "Scenario",
+        "line": 10,
+        "name": "Telnyx VoiceAI page footer",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 11,
+            "name": "I visit Telnyx VoiceAI page",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 146000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "I should see the voiceAI page footer with links",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 70000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "telnyx-voiceai-page-loading",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Telnyx VoiceAI Page loading",
+    "tags": [],
+    "uri": "cypress\\e2e\\features\\voiceAIPage.feature"
+  }
+]
