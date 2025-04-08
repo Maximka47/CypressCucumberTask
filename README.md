@@ -9,6 +9,7 @@
 
 ````
   git clone https://github.com/Maximka47/CypressCucumberTask.git<br>
+  cd CypressCucumberTask
   npm install
 ````
 
